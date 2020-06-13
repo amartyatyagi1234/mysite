@@ -1,0 +1,55 @@
+.middle {
+	text-align: center;
+	padding-top: 5%;
+	font-family: 'Montserrat';
+	font-size: 2rem;
+}
+.body-heading {
+	padding-bottom: 10px;
+	font-family: 'Anton', sans-serif;
+}
+.main-picture {
+	padding-top: 3%;
+	padding-bottom: 2%;
+	border-radius: 100%;
+}
+.main-paragraph {
+	position: relative;
+	padding: 3% 10%;
+	bottom: 10px;
+	font-family: 'Fira Sans Condensed', sans-serif;
+	font-size: 2rem;
+}
+.line {
+	border-style: dotted;
+	width: 5%;
+	border-top: 0;
+	border-left: 0;
+	border-right: 0;
+	border-width: 13px;
+	color: grey;
+}
+.second-picture {
+	padding-top: 3%;
+	padding-bottom: 2%;
+	border-radius: 100%;
+}
+.second-paragraph {
+	padding-bottom: 80px;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-family: 'Fira Sans Condensed', sans-serif;
+	font-size: 2rem;
+}
+.last-div {
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 80px;
+	background-color: #4cbbb9;
+	font-family: "Montserrat";
+	font-size: 150%;
+}
+.last-logo {
+	display: inline-block;
+	margin: 0 30px;
+}
